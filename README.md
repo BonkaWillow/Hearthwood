@@ -1,2 +1,3 @@
-# Rustbucket
-Any and everything for the minecraft Rustbucket server
+# Hearthwood
+Any and everything for the minecraf server Hearthwood
+
